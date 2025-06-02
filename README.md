@@ -1,2 +1,2 @@
 # meusite
-education
+education #https://gusdealbuquerque.github.io/meusite/
